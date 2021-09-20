@@ -1,5 +1,5 @@
 import React from 'react';
-import Cabecalho from './pages/cabecalho'
+import Cabecalho from './pages/components/cabecalho'
 import ReactDOM from 'react-dom';
 import './index.css';
 
